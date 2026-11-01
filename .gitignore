@@ -1,0 +1,5 @@
+# Working notes and local tools stay out of the public repository.
+.claude/
+.impeccable/
+PRODUCT.md
+DESIGN.md

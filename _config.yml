@@ -1,0 +1,6 @@
+# Project notes stay out of the published site.
+exclude:
+  - PRODUCT.md
+  - DESIGN.md
+  - .claude
+  - .impeccable
